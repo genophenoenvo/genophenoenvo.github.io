@@ -6,6 +6,14 @@ To mitigate the effects of climate change on public health and conservation, we 
 
 Our long term goal is to develop predictive analytics for organismal response to environmental perturbations using innovative data science approaches. Ultimately, we hope to change the way we think about gene expression and the environment. This project will serve as proof-of-concept for an institute focused on predicting emergent properties of complex systems; an institute that would itself foster the development of many new sub-disciplines. We propose to develop a machine learning framework capable of predicting phenotypes based on multi-scale data about genes and environments. Although the available data, ranging from simple vectors to complex images to sequences, is not yet fit for this purpose, we will address this by applying our proven semantic data integration tools and experience and algorithmic data transformation methods. The central hypothesis of this research is that deep learning algorithms and biological knowledge graphs will predict phenotypes more accurately across more taxa and more ecosystems than do current numerical and traditional statistical modeling methods. The rationale for this proposal is that a timely investment in data science will push through a bottleneck in life science, accelerating discovery of gene-phenotype-environment relationships, and catalyzing a new computational discipline to uncover the complex “rules of life.” 
 
+## Project Plan
+
+![Image](image9.png)
+
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions or Comments? Contact the PIs.
+Anne Thessen annethessen@gmail.com
+Arun Ross rossarun@cse.msu.edu
+Remco Chang remco@cs.tufts.edu
+Bryan Heidorn heidorn@email.arizona.edu
