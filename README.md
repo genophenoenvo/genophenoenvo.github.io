@@ -10,6 +10,8 @@ Our long term goal is to develop predictive analytics for organismal response to
 
 ![Image](image9.png)
 
+This is a two year project starting 1 October 2019 and ending 30 September 2021.
+
 ### Support or Contact
 
 Questions or Comments? Contact the PIs.
@@ -21,4 +23,6 @@ Arun Ross rossarun@cse.msu.edu
 Remco Chang remco@cs.tufts.edu
 
 Bryan Heidorn heidorn@email.arizona.edu
+
+This project is funded by NSF HDR Award 1940330.
 
