@@ -13,7 +13,12 @@ Our long term goal is to develop predictive analytics for organismal response to
 ### Support or Contact
 
 Questions or Comments? Contact the PIs.
+
 Anne Thessen annethessen@gmail.com
+
 Arun Ross rossarun@cse.msu.edu
+
 Remco Chang remco@cs.tufts.edu
+
 Bryan Heidorn heidorn@email.arizona.edu
+
