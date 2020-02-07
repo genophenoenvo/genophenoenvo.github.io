@@ -24,5 +24,5 @@ Remco Chang remco@cs.tufts.edu
 
 Bryan Heidorn heidorn@email.arizona.edu
 
-This project is funded by NSF HDR Award 1940330.
+This project is funded by NSF HDR Awards 1939945, 1940059, 1940062, and 1940330.
 
