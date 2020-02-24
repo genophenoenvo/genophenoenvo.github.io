@@ -12,10 +12,6 @@ Our long term goal is to develop predictive analytics for organismal response to
 
 This is a two year project starting 1 October 2019 and ending 30 September 2021.
 
-## Organizational Chart
-
-![Image](GenoPhenoEnvo_orgchart.png)
-
 ### Support or Contact
 
 Questions or Comments? Contact the PIs.
