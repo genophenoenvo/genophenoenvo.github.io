@@ -1,30 +1,23 @@
-## Welcome to the GenoPhenoEnvo project
+# calliope.github.io
 
-[Home](https://genophenoenvo.github.io/)  [About Us](https://genophenoenvo.github.io/about) [Results](https://genophenoenvo.github.io/results)
+Bootstrap.js and ReadTheDocs `github.io` website for GenoPhenoEnvo project
 
-![Image](image13.png)
+## Website development
 
-To mitigate the effects of climate change on public health and conservation, we need to better understand the dynamic interplay between biological processes and environmental effects. The state-of-the-art, which has led to many important discoveries, utilizes numerical or statistical models for making predictions or performing in silico experimentation, but these techniques struggle to capture the nonlinear response of natural systems. Machine learning (ML) methods are better able to cope with nonlinearity and have been used successfully in biological applications, but several barriers still exist, including the opaque nature of the algorithm output and the absence of ML-ready data. Here, we propose to significantly advance technologies in ML and create a new interdisciplinary field, computational ecogenomics. We propose to do this by (a) designing ML techniques for encoding heterogeneous genomic and environmental data, and mapping them to multi-level phenotypic traits, (b) reducing the amount of necessary training data, and (c) developing interactive visualizations to better interpret ML models and their outputs. **These advances will responsibly and transparently inform policy to maximize resources during this crucial window for planetary health, while revealing underlying biological mechanisms of response to stress and evolutionary pressure.**
+To develop upon locally:
+```
+git clone https://github.com/genophenoenvo/genophenoenvo.github.io.git
+cd genophenoenvo.github.io
+npm install
+npm run serve
+```
 
-Our long term goal is to develop predictive analytics for organismal response to environmental perturbations using innovative data science approaches. Ultimately, we hope to change the way we think about gene expression and the environment. This project will serve as proof-of-concept for an institute focused on predicting emergent properties of complex systems; an institute that would itself foster the development of many new sub-disciplines. We propose to develop a machine learning framework capable of predicting phenotypes based on multi-scale data about genes and environments. Although the available data, ranging from simple vectors to complex images to sequences, is not yet fit for this purpose, we will address this by applying our proven semantic data integration tools and experience and algorithmic data transformation methods. The central hypothesis of this research is that deep learning algorithms and biological knowledge graphs will predict phenotypes more accurately across more taxa and more ecosystems than do current numerical and traditional statistical modeling methods. The rationale for this proposal is that a timely investment in data science will push through a bottleneck in life science, accelerating discovery of gene-phenotype-environment relationships, and catalyzing a new computational discipline to uncover the complex “rules of life.” 
+**Important:** The ReadTheDocs are maintained in a separate GitHub Repo and are built using Sphinx. You must clone that repo separately, modify it, and then copy the contents of the `_build_html` into the `/docs` folder in this repository to update the ReadTheDocs
 
-## Project Plan
+Managing the navbar Edit views/Navbar/pages.json to change the links at the top of the page.
 
-![Image](image9.png)
+Controllers, custom views Most pages should be able to just use `controllers/VanillaController.js`, that manages the navbar at the top and the footer at the bottom (`<header>` and `<footer>` tags are needed in the page's HTML for these to work).
 
-This is a two year project starting 1 October 2019 and ending 30 September 2021.
+The custom views in place (such as the header and footer) use the uki.js MVC framework; using the framework is optional, or feel free to include your own.
 
-### Support or Contact
-
-Questions or Comments? Contact the PIs.
-
-Anne Thessen annethessen@gmail.com
-
-Arun Ross rossarun@cse.msu.edu
-
-Remco Chang remco@cs.tufts.edu
-
-Bryan Heidorn heidorn@email.arizona.edu
-
-This project is funded by NSF HDR Awards 1939945, 1940059, 1940062, and 1940330.
-
+npm libraries Feel free to `npm install --save` any libraries that you need, but you will also need to edit .gitignore to specifically include the files that you actually link to inside node_modules (so that we don't end up committing the whole directory structure).
