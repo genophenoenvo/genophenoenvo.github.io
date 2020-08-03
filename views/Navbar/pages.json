@@ -1,5 +1,5 @@
 [
   { "path": "/about", "title": "About" },
-  { "path": "/docs", "title": "Documentation" },
+  { "path": "/_build_html", "title": "Documentation" },
   { "path": "/faq", "title": "FAQ" }
 ]

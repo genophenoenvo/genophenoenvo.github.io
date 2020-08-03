@@ -1,4 +1,4 @@
-# calliope.github.io
+# genophenoenvo.github.io
 
 Bootstrap.js and ReadTheDocs `github.io` website for GenoPhenoEnvo project
 
