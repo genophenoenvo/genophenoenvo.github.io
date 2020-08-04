@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/genophenoenvo/genophenoenvo.github.io/issues"
   },
-  "license": "GNU GPL 3.0",
+  "license": "BSD-3-Clause",
   "homepage": "https://github.com/genophenoenvo/genophenoenvo.github.io#readme",
   "devDependencies": {
     "serve": "^11.3.0"
