@@ -12,7 +12,7 @@ npm install
 npm run serve
 ```
 
-**Important:** The ReadTheDocs are maintained in a separate GitHub Repo and are built using Sphinx. You must clone that repo separately, modify it, and then copy the contents of the `_build_html` into the `/docs` folder in this repository to update the ReadTheDocs
+**Important:** The ReadTheDocs are maintained in a separate GitHub Repo and are built using Sphinx. You must clone that repo separately, modify it, and then copy the contents of the `./readthedocs/` sub-directory into the `/readthedocs` folder in this repository to update the ReadTheDocs
 
 Managing the navbar Edit views/Navbar/pages.json to change the links at the top of the page.
 
