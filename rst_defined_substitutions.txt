@@ -1,0 +1,58 @@
+.. Comment: URLS
+
+.. |Github Repo Link| raw:: html
+
+   <a href="https://github.com/genophenoenvo" target="blank">GitHub</a>
+
+.. |CyVerse citation policy| raw:: html
+
+  <a href="https://cyverse.org/policies/cite-cyverse"
+  target="_blank">CyVerse citation policy</a>
+
+.. |CyVerse User Portal| raw:: html
+
+  <a href="https://user.cyverse.org/" target="_blank">CyVerse User Portal</a>
+
+.. |Data Store| raw:: html
+
+  <a href="http://www.cyverse.org/data-store" target="_blank">Data Store</a>
+
+.. |Data Store Manual| raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DS/Data+Store+Table+of+Contents" target="blank">Data Store Manual</a>
+
+.. |Data Store Guide| raw:: html
+
+   <a href="https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/" target="blank">Data Store Guide</a>
+
+.. |Discovery Environment| raw:: html
+
+   <a href="https://de.cyverse.org/de/" target="blank">Discovery Environment</a>
+
+.. |DE Manual| raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DEmanual/Table+of+Contents" target="blank">DE Manual</a>
+
+.. |Discovery Environment Guide| raw:: html
+
+   <a href="http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/" target="blank">Discovery Environment Guide</a>
+
+.. |CyVerse Learning Center| raw:: html
+
+   <a href="http://learning.cyverse.org" target="blank">CyVerse Learning Center</a>
+
+.. |CyVerse Wiki| raw:: html
+
+   <a href="https://wiki.cyverse.org" target="blank">CyVerse Wiki</a>
+
+.. |CyVerse_logo| image:: ./img/cyverse_learning.png
+    :width: 500
+    
+.. _CyVerse_logo: https://cyverse.org
+
+.. |Home_Icon| image:: ./img/homeicon.png
+    :width: 25
+    :height: 25
+
+.. _Home_Icon: http://genophenoenvo.github.io/
+
