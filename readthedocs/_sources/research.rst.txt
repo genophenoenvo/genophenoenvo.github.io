@@ -4,15 +4,11 @@
 
 .. Comment: see Sphinx docs for header style levels https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html
 
-########
-Research 
-########
+################
+Research Methods
+################
 
-Our research is conducted using a combination of open-source software, public research cyberinfrastructure, version control systems, and containerized workflows.
-
-*******
-Methods
-*******
+Our research is conducted using a combination of open-source software, public research cyberinfrastructure, version control systems, and containerized workflow
 
 Genetics data are served from national data repositories
 
@@ -32,17 +28,10 @@ To launch one of our Notebook analyses click here |jupyter-scipy-latest|_
 
 
 Visualization
--------------
-
-Analyses
-========
+=============
 
 Bayesian Belief Networks
-------------------------
-
-**********************
-Containerized Workflow
-**********************
+========================
 
 *In order to use interactive apps in CyVerse, you will need access to the following services/software*
 
@@ -61,7 +50,7 @@ Containerized Workflow
 
 
 Apps in CyVerse 
-***************
+===============
 
 CyVerse provides base images of featured interactive apps here: https://github.com/cyverse-vice/
 
@@ -69,18 +58,14 @@ Launch RStudio: |rstudio-geospatial-latest|_
 
 Launch Jupyter: |jupyter-scipy-latest|_
 
-
-Workflows
-~~~~~~~~~
-
 Code
-~~~~
+====
 
 Analysis code is hosted on GitHub and on CyVerse Data Store
 
-
+############
 Publications
-~~~~~~~~~~~~
+############
 
 <links to DOI here>
 
@@ -91,9 +76,6 @@ Publications
 
 - On Github: |Github|
 - Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
-
-----
-
 
 .. |Github| raw:: html
 

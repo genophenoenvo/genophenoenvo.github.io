@@ -27,10 +27,10 @@ Processed datasets are available here:
       - Link/Download
     * - TERRA-REF
       - Sorghum Season 4
-      - `Season 4 <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/traits/>`_
+      - `Season 4 <https://data.cyverse.org/dav-anon/iplant/projects/genophenoenvo/data/terraref/traits/season_4_traits>`_
     * - TERRA-REF
       - Sorghum Season 6
-      - `Season 6 <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/traits/>`_
+      - `Season 6 <https://data.cyverse.org/dav-anon/iplant/projects/genophenoenvo/data/terraref/traits/season_6_traits>`_
 
 Kansas State University (KSU)
 *****************************
@@ -63,7 +63,6 @@ Processed datasets are available here:
 - On Github: |Github|
 - Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
 
-----
 
 
 .. |Github| raw:: html

@@ -3,8 +3,9 @@
 |Home_Icon|_
 `Home <https://genophenoenv.github.io/>`_
 
+#########
 Tutorials
----------
+#########
 
 Training material for reproducing this research can be accessed through |CyVerse Learning Center|
 
@@ -14,8 +15,6 @@ Training material for reproducing this research can be accessed through |CyVerse
 
 - On Github: |Github|
 - Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
-
-----
 
 
 .. |Github| raw:: html

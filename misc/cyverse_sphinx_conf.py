@@ -70,6 +70,6 @@ def setup(app):
         True
     )
     app.add_transform(AutoStructify)
-    app.add_stylesheet('cyverse.css')
-    app.add_javascript('jquery.tablesorter.min.js')
-    app.add_javascript('cyverse.js')
+    app.add_css_file('cyverse.css')
+    app.add_js_file('jquery.tablesorter.min.js')
+    app.add_js_file('cyverse.js')

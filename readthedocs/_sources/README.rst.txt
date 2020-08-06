@@ -72,23 +72,14 @@ Contact Us
 
 - On Github: |Github|
 
-----
-
 .. Comment: images
 
 .. |project_image| image:: ./img/image13.png
      :width: 800
-
-.. _project_image:
    
-
 .. |project_plan_image| image:: ./img/image9.png
     :width: 800
-    :alt: Workflow pipeline
-
-.. _project_plan_image:
-
-    
+   
 .. |Github| raw:: html
 
    <a href="https://github.com/genophenoenvo" target="blank">GitHub</a>

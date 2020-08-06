@@ -31,9 +31,6 @@ Computational Notebooks (R and Python) as well as derivative processed data extr
 
 - On Github: |Github|
 
-----
-
-
 .. |Github| raw:: html
 
    <a href="https://github.com/genophenoenvo" target="blank">GitHub</a>

@@ -5,10 +5,10 @@
    :maxdepth: 4
    :hidden:
    :glob:
-   
-   README
+
    research
    data
    documentation
    tutorials
    contributing
+

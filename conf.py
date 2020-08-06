@@ -32,6 +32,5 @@ html_theme_options = {
     'titles_only': False
 }
 
-
 # These folders are copied to the documentation's HTML output
-html_static_path = ['_static']
+html_static_path = ['static']
