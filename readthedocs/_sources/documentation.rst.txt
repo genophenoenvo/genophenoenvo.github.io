@@ -2,17 +2,16 @@
 
 |Home_Icon|_ 
 
------
-
+#############
 Documentation
-------------
+#############
 
 *Read our Governance Document<link>*
 
 Documentation for the Geno-Pheno-Envo project is maintained in several modalities
 
 ReadTheDocs
-*********
+***********
 
 This website
 
@@ -23,6 +22,7 @@ Versioned code and publications are maintained on |Github|_
 
 CyVerse
 *******
+
 Computational Notebooks (R and Python) as well as derivative processed data extractions are hosted on CyVerse |Data Store| and Data Commons 
 
 ----
@@ -30,7 +30,6 @@ Computational Notebooks (R and Python) as well as derivative processed data extr
 **Fix or improve this documentation**
 
 - On Github: |Github|
-- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
 
 ----
 

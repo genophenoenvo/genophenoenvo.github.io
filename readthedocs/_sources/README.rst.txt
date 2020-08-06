@@ -26,9 +26,7 @@ Our long term goal is to develop predictive analytics for organismal response to
 
    .. admonition:: Note
 
-	 We will be making regular contributions to these materials, and you can suggest new materials. If you have ideas or suggestions please email `tswetnam@arizona.edu <mailto:tswetnam@arizona.edu>`_
-
-	 You can also view, edit, and submit contributions on |Github|.
+	 We will be making regular contributions to these materials, and you can suggest new materials. If you have ideas or suggestions please submit the issue to GitHub. You can also view, edit, and submit contributions on |Github|.
 
 
 ********************
@@ -56,16 +54,16 @@ Contact Us
       - Contact
     * - Anne Thessen
       - Oregon State University
-      - `email <mailto:annethessen@gmail.com>`_
+      - `annethessen@gmail.com <mailto:annethessen@gmail.com>`_
     * - Arun Ross
       - Michigan State University
-      - `email <mailto:rossarun@cse.msu.edu>`_
+      - `rossarun@cse.msu.edu <mailto:rossarun@cse.msu.edu>`_
     * - Remco Chang
       - Tufts University
-      - `email <mailto:remco@cs.tufts.edu>`_
+      - `remco@cs.tufts.edu <mailto:remco@cs.tufts.edu>`_
     * - Bryan Heidorn
       - University of Arizona
-      - `email <mailto:heidorn@email.arizona.edu>`_
+      - `heidorn@email.arizona.edu <mailto:heidorn@email.arizona.edu>`_
 
 
 ----
@@ -73,7 +71,6 @@ Contact Us
 **Fix or improve this documentation**
 
 - On Github: |Github|
-- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
 
 ----
 
