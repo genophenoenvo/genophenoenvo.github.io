@@ -32,5 +32,11 @@ html_theme_options = {
     'titles_only': False
 }
 
+html_context = {
+    "display_github": True, # Add 'Edit on Github' link instead of 'View page source'
+    "last_updated": True,
+    "commit": False,
+}
+
 # These folders are copied to the documentation's HTML output
 html_static_path = ['static']
