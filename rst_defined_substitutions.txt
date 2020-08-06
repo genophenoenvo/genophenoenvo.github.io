@@ -6,16 +6,15 @@
 
 .. |CyVerse citation policy| raw:: html
 
-  <a href="https://cyverse.org/policies/cite-cyverse"
-  target="_blank">CyVerse citation policy</a>
+   <a href="https://cyverse.org/policies/cite-cyverse" target="_blank">CyVerse citation policy</a>
 
 .. |CyVerse User Portal| raw:: html
 
-  <a href="https://user.cyverse.org/" target="_blank">CyVerse User Portal</a>
+   <a href="https://user.cyverse.org/" target="_blank">CyVerse User Portal</a>
 
 .. |Data Store| raw:: html
 
-  <a href="http://www.cyverse.org/data-store" target="_blank">Data Store</a>
+   <a href="http://www.cyverse.org/data-store" target="_blank">Data Store</a>
 
 .. |Data Store Manual| raw:: html
 
@@ -54,5 +53,4 @@
     :width: 25
     :height: 25
 
-.. _Home_Icon: http://genophenoenvo.github.io/
-
+.. _Home_Icon: https://genophenoenvo.github.io/
