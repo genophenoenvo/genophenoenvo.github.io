@@ -1,6 +1,7 @@
 .. include:: rst_defined_substitutions.txt
 
-|Home_Icon|_ 
+|Home_Icon|_
+`Home <https://genophenoenvo.github.io/>`_ 
 
 .. Comment: see Sphinx docs for header style levels https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html
 

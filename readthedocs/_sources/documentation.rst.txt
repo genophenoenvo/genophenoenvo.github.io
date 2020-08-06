@@ -1,6 +1,7 @@
 .. include:: rst_defined_substitutions.txt
 
-|Home_Icon|_ 
+|Home_Icon|_
+`Home <https://genophenoenvo.github.io/>`_ 
 
 #############
 Documentation
