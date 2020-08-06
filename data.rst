@@ -26,8 +26,11 @@ Processed datasets are available here:
       - Types
       - Link/Download
     * - TERRA-REF
-      - Sorghum Season X
-      - `WebDav <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/ua-mac>`_
+      - Sorghum Season 4
+      - `Season 4 <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/traits/>`_
+    * - TERRA-REF
+      - Sorghum Season 6
+      - `Season 6 <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/traits/>`_
 
 Kansas State University (KSU)
 *****************************
@@ -51,7 +54,7 @@ Processed datasets are available here:
       - Link/Download
     * - NEON AOP
       - Hyperspectral and Lidar
-      - `WebDav <https://data.cyverse.org/dav-anon/iplant/home/tswetnam/NEON_Downloads>`_
+      - `NEON Downloads <https://data.cyverse.org/dav-anon/iplant/home/tswetnam/NEON_Downloads>`_
 
 ----
 
