@@ -2,10 +2,9 @@
 
 |Home_Icon|_ 
 
------
-
+############
 Data Sources
-------------
+############
 
 Original data used by this research project come from a variety of existing observatories and other funded research programs.
 
@@ -31,7 +30,7 @@ Processed datasets are available here:
       - `WebDav <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/ua-mac>`_
 
 Kansas State University (KSU)
-***********************
+*****************************
 
 NEON
 ****
