@@ -16,8 +16,6 @@ If you want to replicate these materials, you're welcome to do so. Templates for
 **Fix or improve this documentation:**
 
 - On Github: |Github Repo Link|
-- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
-
 
 .. |Learning Center GitHub| raw:: html
 

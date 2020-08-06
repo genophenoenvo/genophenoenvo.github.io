@@ -75,7 +75,6 @@ Publications
 **Fix or improve this documentation**
 
 - On Github: |Github|
-- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
 
 .. |Github| raw:: html
 
