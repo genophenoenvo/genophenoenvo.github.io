@@ -46,7 +46,7 @@ We maintain the following templates. All documentation in the should be derived 
 
 - **Tutorials**: Tutorials to teach how to use our platforms. 
 
-- **Publications:**: Presentations and peer-reviewed work conducted on the award.
+- **Publications**: Presentations and peer-reviewed work conducted on the award.
 
 #### Making Changes to the RTD portion of our website
 
