@@ -25,11 +25,11 @@ Oral Presentations
       - |thessen_esa|
     * - Plant Animal Genome Conference, San Diego CA
       - Anne Thessen
-      - 2020-01-27
+      - 2020-01-12
       - |thessen_pag|
     * - Plant Animal Genome Conference, San Diego CA
       - Tyson Swetnam
-      - 2020-01-27
+      - 2020-01-12
       - |swetnam_pag|
 
 Poster Presentations
