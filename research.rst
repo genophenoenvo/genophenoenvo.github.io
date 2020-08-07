@@ -64,12 +64,6 @@ Code
 
 Analysis code is hosted on GitHub and on CyVerse Data Store
 
-############
-Publications
-############
-
-<links to DOI here>
-
 
 ----
 
