@@ -24,11 +24,11 @@ npm libraries Feel free to `npm install --save` any libraries that you need, but
 
 ### ReadTheDocs (RTD) Documentation sub-section
 
-The repo supports a the [Read the Docs documentation](https://readthedocs.org/) documentation in use by the GenoPhenoEnvo project. 
+This website repo also supports a [Read the Docs documentation](https://readthedocs.org/) set of subpages for easier documentation. 
 
-#### Goals of the RTD
+#### Goals of the RTD pages
 
-The goal of the documentation should beto provide basic learning materials to help researchers, educators, and students effectively (re)use our research material in the CyVerse cyberinfrastructure. 
+The goal of the documentation should be to provide basic learning materials to help researchers, educators, and students effectively (re)use our research material in the CyVerse cyberinfrastructure. 
 
 All documentation is considered a work-in-progress; even the best efforts will be incomplete, contain ambiguities, inaccuracies, and at some point, will become out of date. 
 
