@@ -25,4 +25,4 @@ jobs:
        #INPUT_DOCS-FOLDER: "./"
        #docs-folder: "readthedocs/"
        pre-build-command: "pip install sphinx_rtd_theme recommonmark"
-       build-command: "sphinx-build -M html -c ./ readthedocs -T"
+       build-command: "sphinx-build -M html -c ./ . ./readthedocs -T"
