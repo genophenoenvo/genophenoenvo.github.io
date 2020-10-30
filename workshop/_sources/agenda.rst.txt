@@ -7,8 +7,8 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Agenda
-------
+Proposed Agenda
+---------------
 
 ..
 	#### Comment: short text description goes here ####
@@ -31,86 +31,52 @@ Agenda
 .. list-table::
   :header-rows: 1
 
-  * - Time (AZT MST)
+  * - Time (EST)
     - Activity
     - Lead Personnel
     - Content
     - Links
-  * - 0900-0910
+  * - 11:00-11:30
     - Welcome
     - Anne, Arun, Remco, Bryan
-    - Overview of the workshop
+    - Describe HDR, TRIPODS, and the Institute
     - This website
-  * - 0910-0920
-    - Ice Breaker
+  * - 11:30-12:30
+    - Discussion
     - All
-    - favorite Quarantine food and drink recipe
-    - Create a Quar-Cook-Book
-  * - 0920-0930
-    - Logistics
-    - Tyson
-    - Use of webpages, Zoom, SLACK, and GitHub
-    - 
-  * - 0930-0945
-    - Lightning Overview of the GxE=P HDR
-    - Anne, Bryan, and Arun, Remco
-    - Four 3 minute Lightning talk for TRIPODS participants w/ 2 minute QA about Year 1
-    -
-  * - 0945-1000
-    - Tech Solutions Breakout  
-    - Tyson, Remco, Arun 
-    - Breakout Rooms focused on ML, Viz, and Cyberinfrastructure 
-    - 
-  * - 1000-1010
+    - Vision of an HDR Institute
+    - Breakout Sessions
+  * - 12:30-12:45
     - Break
     -
     -
     -
-  * - 1010-1030   
-    - Data Management Breakout
-    - David, Pankaj, Anne
-    - Rooms focused on Phenotyping, Genomic, Environmental Data Sets
-    - 
-  * - 1030-1045
-    - Science Questions Breakout
-    - Ryan, Gabe, Ishita
-    - Rooms focused on Bayes and ML
-    - 
-  * - 1045-1100
-    - TRIPODS Rapid Fire
-    - TRIPODS Q/A of our weaknesses and problems seen in the Breakouts
-    -
-    -   
-  * - 1100-1200
-    - Brunch, Early-, Regular-, Late- Lunch Break
+  * - 1245-13:45  
+    - Discussion
+    - All
+    - Convergence
+    - Breakout Rooms
+  * - 12:30-12:45
+    - "Lunch"
     -
     -
     -
-  * - 1200-1245
-    - Building Research Objects
-    - Tyson and Emily
-    - Year 1 Data Inventory and Status overview
-    - Examples of our notebooks running in CyVerse
-  * - 1245-1250
-    - Check-in
-    - All 
+  * - 14:15-15:15
+    - Discussion
+    - All
+    - Coordination and Management
     - 
-    - 
-  * - 1250-1300
+  * - 15:15-15:30
     - Break
     -
     -
     -
-  * - 1300-1350
-    - Building Research Objects (cont.)
+  * - 15:30-16:00
+    - Freeform Discussions
     - All
     - 
     -
-  * - 1350-1400
-    - Wrap-up
-    -
-    - After-action review (what went well, wrong, could be done better)
-    - 
+ 
 
 
 *Day 2 2020-11-10*
@@ -119,57 +85,52 @@ Agenda
 .. list-table::
   :header-rows: 1
 
-  * - Time (AZT MST)
+  * - Time (EST)
     - Activity
     - Lead Personnel
     - Content
     - Links
-  * - 0900-0910
-    - Briefing
-    - Tyson and Ryan
-    - Review Day 1
-    - This website
-  * - 0910-1000
-    - Intro to CyVerse Workbench
-    - Tyson
-    - Launching VMs in CyVerse
-    - `Launching Apps <./step2.html>`_
-  * - 1000-1010
+  * - 11:00-11:30
+    - Reintroduction & Review of Day One
+    - 
+    - Synopsis from Day One
+    - 
+  * - 11:30-12:30
+    - Discussion
+    - All
+    - Collaboration Strategies
+    - Breakout Sessions
+  * - 12:30-12:45
     - Break
     -
     -
     -
-  * - 1010-1100
-    - Activity 
-    - Tyson 
-    - Intro to NEON Data API and NEON Datasets 
-    - `NEON Data API <./step3.html>`_
-  * - 1100-1200
-    - Brunch, Early-, Regular-, Late- Lunch Break
+  * - 1245-13:45  
+    - Discussion
+    - All
+    - Transforming communities of practice
+    - Breakout Rooms
+  * - 12:30-12:45
+    - "Lunch"
+    -
+    -
+    -
+  * - 14:15-15:15
+    - Discussion
+    - All
+    - Sharing Outcomes
     - 
-    -
-    -
-  * - 1200-1250
-    - Activity
-    - Ryan and Gabe
-    - ML applications in RStudio and Python
-    - Running analyses
-  * - 1250-1300
+  * - 15:15-15:30
     - Break
     -
     -
     -
-  * - 1300-1350
-    - RStudio Activity (cont)
+  * - 15:30-16:00
+    - Freeform Discussions
+    - All
+    - 
     -
-    - 
-    - 
-  * - 1350-1400
-    - Wrap-up
-    -
-    - After-action review (what went well, wrong, could be done better)
-    - 
-
+ 
 
 ----
 
