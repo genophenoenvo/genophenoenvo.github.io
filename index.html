@@ -3,20 +3,6 @@
 
 <head>
 
-<script type="text/javascript">
-    (function () {
-        window.siqConfig = {
-            engineKey: "81502ca5781a2024e413b6842ac85411",
-            forceLoadSettings: false        // change false to true if search box on your site is adding dynamically
-        };
-        window.siqConfig.baseUrl = "//pub.searchiq.co/";
-        var script = document.createElement("SCRIPT");
-        script.src = window.siqConfig.baseUrl + '/js/container/siq-container-2.js?cb=' + (Math.floor(Math.random()*999999)) + '&engineKey=' + siqConfig.engineKey;
-        script.id = "siq-container";
-        document.getElementsByTagName("HEAD")[0].appendChild(script);
-    })();
-</script>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
@@ -72,46 +58,37 @@ body, html {
 .hero-text {
   text-align: center;
   position: absolute;
-  top: 70%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-/* Place text in the middle of the image */
-.hero-text {
-  text-align: center;
-  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: yellow;
-  font-family: Century Gothic, sans-serif;
-    font-size: 2.2em;
-    line-height: 1.5em;  
 }
 
 .hero-text button {
   border: none;
   outline: 0;
   display: inline-block;
-  padding: 50px 25px;
+  padding: 10px 25px;
   color: black;
   background-color: #ddd;
   text-align: center;
   cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
 }
 </style>
 
 </head>
 
 <body>
-  <header></header>
+<header></header>
   <div class="hero-image">
-    <main role="main">
-      <div class="hero-text"><p><strong>Welcome to the GenoPhenoEnvo Project</strong></p>
-      <div class="hero-text"></div>
-        <h3 class="display-4"></h3>
+  <main role="main">
+      <div class="hero-text">
+        <h1 style="font-size:50px">Welcome to the GenoPhenoEnvo Project</h1>
       </div>
   </div>
 
@@ -119,13 +96,13 @@ body, html {
       <div class="row">
         <div class="col-md-4 col-sm-12" align="center"><a class="noUL" href="about">
           <i class="alignedIcon fa fa-history fa-5x" style="display:block;color:#000000;margin:3%;"></i>
-          <h2 class="btn-lg btn btn-secondary">Background</h2></a>
+          <h2 class="btn-lg btn btn-secondary">About Us</h2></a>
           <p class="lead">Why and Who we are</p>
         </div>
         <div class="col-md-4" align="center"><a class="noUL" href="readthedocs/">
           <i class="alignedIcon fa fa-file-text fa-5x" style="display:block;color:#000000;margin:3%;"></i>
           <h2 class="btn-lg btn btn-secondary">Documentation</h2></a>
-          <p class="lead">How</p>
+          <p class="lead">How we are executing this research</p>
         </div>
         <div class="col-md-4" align="center"><a class="noUL" href="faq">
           <i class="alignedIcon far fa-question-circle fa-5x" style="display:block;color:#000000;margin:3%;"></i>

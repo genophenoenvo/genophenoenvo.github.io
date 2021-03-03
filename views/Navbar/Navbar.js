@@ -13,7 +13,6 @@ class Navbar extends View {
     return noExtension === path || (path === '/' && noExtension === '/index');
   }
   setup () {
-    this.setupSearchIQ();
     this.d3el.html(this.resources[0]);
 
     const menuItemsEnter = this.d3el.select('ul.mr-auto')
@@ -33,20 +32,7 @@ class Navbar extends View {
         }
       });
   }
-  setupSearchIQ() {
-    window.siqConfig = {
-      engineKey: "81502ca5781a2024e413b6842ac85411",
-      forceLoadSettings: true
-    };
-    window.siqConfig.baseUrl = "//pub.searchiq.co/";
-    var script = document.createElement("SCRIPT");
-    script.src = window.siqConfig.baseUrl +
-      '/js/container/siq-container-2.js?cb=' +
-      (Math.floor(Math.random()*999999)) +
-      '&engineKey=' + window.siqConfig.engineKey;
-    script.id = "siq-container";
-    document.getElementsByTagName("HEAD")[0].appendChild(script);
-  }
+  
 }
 
 export default Navbar;

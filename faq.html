@@ -37,20 +37,6 @@
   <script src="https://kit.fontawesome.com/f2d2b39d62.js" crossorigin="anonymous" SameSite="none Secure"></script>
   <script type="module" src="controllers/VanillaController.js"></script>
 
-<script type="text/javascript">
-    (function () {
-        window.siqConfig = {
-            engineKey: "81502ca5781a2024e413b6842ac85411",
-            forceLoadSettings: false        // change false to true if search box on your site is adding dynamically
-        };
-        window.siqConfig.baseUrl = "//pub.searchiq.co/";
-        var script = document.createElement("SCRIPT");
-        script.src = window.siqConfig.baseUrl + '/js/container/siq-container-2.js?cb=' + (Math.floor(Math.random()*999999)) + '&engineKey=' + siqConfig.engineKey;
-        script.id = "siq-container";
-        document.getElementsByTagName("HEAD")[0].appendChild(script);
-    })();
-</script>
-
 <style>
 body, html {
   height: 100%;
@@ -60,7 +46,7 @@ body, html {
 
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("assets/cyverse_globe_cmyk.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("/assets/geno_pheno.png");
   height: 40%;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,7 +60,7 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: yellow;
 }
 
 .hero-text button {
@@ -102,11 +88,16 @@ body, html {
   <main role="main">
       <div class="hero-text">
         <h1 style="font-size:50px">Frequently Asked Questions</h1>
-        <p>find them here</p>
       </div>
   </div>
   <div class="container">
-    <p>Page Content..</p>
+    <h2>What is a phenotype? </h2>
+    <p>A <strong>phenotype</strong> is an observable characteristic or trait of an organism, like the color of a flower or the shape of an ear.</p>
+    <h2>What is a genotype?</h2>
+    <p>A <strong>genotype</strong> is a specific variation of a gene that encodes a phenotype, such a gene that encodes eye color or height. Genes are found on chromosomes and encoded in patterns on the DNA molecule. That DNA pattern is copied and used to make proteins by a suite of RNA molecules in the cell. In this way, changes in the DNA pattern that make up our specific genotype affect the proteins that cells make and result in an observable phenotype, like blue eyes or short stature.</p>
+    <h2>What is a cyberinfrastructure?</h2>
+    <p>A <strong>cyberinfrastructure</strong> is a combination of software platforms, tools, and datasets; storage and compute hardware; and people who provide training and support
+</p>
   </div>
   </main>
 
