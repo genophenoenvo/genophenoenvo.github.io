@@ -63,10 +63,9 @@ Peer Reviewed Publications
 .. |thessen_esa| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3975829.svg
    :target: https://doi.org/10.5281/zenodo.3975829
 
-.. |thessen_pag| raw:: html
-    
-    <a href="https://plan.core-apps.com/pag_2020/abstract/f489aeb2-5b59-4a10-bf11-dfe5b4ebcd3e" target_blank">Abstract</a>
-
+.. |thessen_pag| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4439518.svg
+   :target: https://doi.org/10.5281/zenodo.4439518
+   
 .. |swetnam_pag| raw:: html
 
     <a href="https://plan.core-apps.com/pag_2020/abstract/1ff1f7d3-b909-4da5-9180-e823311c25c8" target="_blank">Abstract</a>

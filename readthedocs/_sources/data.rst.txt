@@ -1,11 +1,11 @@
 .. include:: rst_defined_substitutions.txt
 
-|Home_Icon|_
-`Home <https://genophenoenvo.github.io/>`_ 
+|Home_Icon|_ 
 
-############
+-----
+
 Data Sources
-############
+------------
 
 Original data used by this research project come from a variety of existing observatories and other funded research programs.
 
@@ -27,14 +27,11 @@ Processed datasets are available here:
       - Types
       - Link/Download
     * - TERRA-REF
-      - Sorghum Season 4
-      - `Season 4 <https://data.cyverse.org/dav-anon/iplant/projects/genophenoenvo/data/terraref/traits/season_4_traits>`_
-    * - TERRA-REF
-      - Sorghum Season 6
-      - `Season 6 <https://data.cyverse.org/dav-anon/iplant/projects/genophenoenvo/data/terraref/traits/season_6_traits>`_
+      - Sorghum Season X
+      - `WebDav <https://data.cyverse.org/dav-anon/iplant/home/shared/terraref/ua-mac>`_
 
 Kansas State University (KSU)
-*****************************
+***********************
 
 NEON
 ****
@@ -55,13 +52,16 @@ Processed datasets are available here:
       - Link/Download
     * - NEON AOP
       - Hyperspectral and Lidar
-      - `NEON Downloads <https://data.cyverse.org/dav-anon/iplant/home/tswetnam/NEON_Downloads>`_
+      - `WebDav <https://data.cyverse.org/dav-anon/iplant/home/tswetnam/NEON_Downloads>`_
 
 ----
 
 **Fix or improve this documentation**
 
 - On Github: |Github|
+- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
+
+----
 
 
 .. |Github| raw:: html

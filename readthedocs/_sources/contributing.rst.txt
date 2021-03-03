@@ -1,11 +1,11 @@
 .. include:: rst_defined_substitutions.txt
 
 |Home_Icon|_ 
-`Home <https://genophenoenvo.github.io/>`_
 
-############################
+-----
+
 Contributing  to the Project
-############################
+----------------------------
 
 You can contribute to this project - everything from fixing a typo to adding new documentation pieces.
 
@@ -16,6 +16,8 @@ If you want to replicate these materials, you're welcome to do so. Templates for
 **Fix or improve this documentation:**
 
 - On Github: |Github Repo Link|
+- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
+
 
 .. |Learning Center GitHub| raw:: html
 

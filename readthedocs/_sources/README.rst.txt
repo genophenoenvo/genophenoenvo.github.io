@@ -26,23 +26,13 @@ Our long term goal is to develop predictive analytics for organismal response to
 
    .. admonition:: Note
 
-	 We will be making regular contributions to these materials, and you can suggest new materials. If you have ideas or suggestions please submit the issue to GitHub. You can also view, edit, and submit contributions on |Github|.
+	 We will be making regular contributions to these materials, and you can suggest new materials. If you have ideas or suggestions please email `tswetnam@arizona.edu <mailto:tswetnam@arizona.edu>`_
 
-
-********************
-Funding and Citation
-********************
-
-This project is funded by NSF HDR Awards 1939945, 1940059, 1940062, and 1940330.
-
-A |Powered by CyVerse| Project. 
-
-Please cite CyVerse appropriately when you make use of our resources, see 
-|CyVerse citation policy|.
+	 You can also view, edit, and submit contributions on |Github|.
 
 
 **********
-Contact Us
+Leadership Team
 **********
 
 
@@ -54,16 +44,16 @@ Contact Us
       - Contact
     * - Anne Thessen
       - Oregon State University
-      - `annethessen@gmail.com <mailto:annethessen@gmail.com>`_
+      - `email <mailto:annethessen@gmail.com>`_
     * - Arun Ross
       - Michigan State University
-      - `rossarun@cse.msu.edu <mailto:rossarun@cse.msu.edu>`_
+      - `email <mailto:rossarun@cse.msu.edu>`_
     * - Remco Chang
       - Tufts University
-      - `remco@cs.tufts.edu <mailto:remco@cs.tufts.edu>`_
+      - `email <mailto:remco@cs.tufts.edu>`_
     * - Bryan Heidorn
       - University of Arizona
-      - `heidorn@email.arizona.edu <mailto:heidorn@email.arizona.edu>`_
+      - `email <mailto:heidorn@email.arizona.edu>`_
 
 
 ----
@@ -71,15 +61,25 @@ Contact Us
 **Fix or improve this documentation**
 
 - On Github: |Github|
+- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
+
+----
 
 .. Comment: images
 
 .. |project_image| image:: ./img/image13.png
      :width: 800
+
+.. _project_image:
    
+
 .. |project_plan_image| image:: ./img/image9.png
     :width: 800
-   
+    :alt: Workflow pipeline
+
+.. _project_plan_image:
+
+    
 .. |Github| raw:: html
 
    <a href="https://github.com/genophenoenvo" target="blank">GitHub</a>

@@ -1,15 +1,18 @@
 .. include:: rst_defined_substitutions.txt
 
-|Home_Icon|_
-`Home <https://genophenoenvo.github.io/>`_ 
+|Home_Icon|_ 
 
 .. Comment: see Sphinx docs for header style levels https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html
 
-################
-Research Methods
-################
+########
+Research 
+########
 
-Our research is conducted using a combination of open-source software, public research cyberinfrastructure, version control systems, and containerized workflow
+Our research is conducted using a combination of open-source software, public research cyberinfrastructure, version control systems, and containerized workflows.
+
+*******
+Methods
+*******
 
 Genetics data are served from national data repositories
 
@@ -29,10 +32,17 @@ To launch one of our Notebook analyses click here |jupyter-scipy-latest|_
 
 
 Visualization
-=============
+-------------
+
+Analyses
+========
 
 Bayesian Belief Networks
-========================
+------------------------
+
+**********************
+Containerized Workflow
+**********************
 
 *In order to use interactive apps in CyVerse, you will need access to the following services/software*
 
@@ -51,7 +61,7 @@ Bayesian Belief Networks
 
 
 Apps in CyVerse 
-===============
+***************
 
 CyVerse provides base images of featured interactive apps here: https://github.com/cyverse-vice/
 
@@ -59,10 +69,20 @@ Launch RStudio: |rstudio-geospatial-latest|_
 
 Launch Jupyter: |jupyter-scipy-latest|_
 
+
+Workflows
+~~~~~~~~~
+
 Code
-====
+~~~~
 
 Analysis code is hosted on GitHub and on CyVerse Data Store
+
+
+Publications
+~~~~~~~~~~~~
+
+<links to DOI here>
 
 
 ----
@@ -70,6 +90,10 @@ Analysis code is hosted on GitHub and on CyVerse Data Store
 **Fix or improve this documentation**
 
 - On Github: |Github|
+- Send feedback: `tswetnam@arizona.edu <tswetnam@arizona.edu>`_
+
+----
+
 
 .. |Github| raw:: html
 
